@@ -1,0 +1,10 @@
+A character speaks directly to the audience, revealing their inner thoughts, secrets, stuff that the other characters cannot hear. Shakespearean version of breaking the fourth wall.
+
+### How Shakespeare Uses It
+Allowing the audience access to a character's hidden agenda creates dramatic irony while visually reinforcing the speaker's [[isolation]] inside a hostile and always-watching court (*see* [[eavesdropping]]). Because in Elsinore almost all public speech is [[poison]]ed with diplomatic lies and/or flattery, an aside helps give insight to the truth (*see* [[certainty & truth]]). This exposes the gap between what a character says and what they actually think (*see* [[appearance vs reality]]).
+
+### Examples
+- **[[Hamlet]] in the [[First Court Scene]] (Act 1, Scene 2 ):** *"A little more than kin, and less than kind."* These are Hamlet's first words in the play, and an aside aimed at Claudius. This establishes his hostility and his ~~over~~use of [[puns]] before he's even spoken publicly.
+- **[[Polonius]] in the [[Fishmonger Scene]] (Act 2, Scene 2):** *"Though this be [[madness]], yet there is method in 't."* A famous line from Polonius, this is an aside he speaks while Hamlet is trolling him. He recognizes the sharpness in Hamlet's wordplay, suggesting Hamlet is at least somewhat in control and giving a [[performance]]. Then he falls into the trap anyway, misdiagnosing Hamlet's erratic behavior as lovesickness.
+- **[[Claudius]] right before the [[Nunnery Scene]] (Act 3, Scene 1):** *"O, 'tis too true! / How smart a lash that speech doth give my conscience!"* Polonius comments on masking ugly deeds with pious faces, triggering Claudius's guilt. This aside is the audience's first direct confirmation of Claudius’s guilt, and the [[mousetrap]] hasn't even started.
+- **[[Gertrude]] during [[Ophelia's Descent]] (Act 4, Scene 5):** *"To my sick soul, as sin's true nature is, / Each toy seems prologue to some great amiss."* Gertrude has internal guilt too, which we get to see in this aside! Her conscience is fracturing with perfect timing (a mad [[Ophelia]] is about to confront the court).

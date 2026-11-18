@@ -1,0 +1,10 @@
+Hints, clues, indications, about what may happen in the future... Were we warned about Elsinore's inevitable slide into collapse from the ghost onwards?
+
+### How Shakespeare Uses It
+There isn't much cheap suspense in this play, and it's probably thanks to foreshadowing. If you look hard enough you can find early visual, verbal, and atmospheric clues that signal Elsinore's catastrophe long before the bloodbath in Act 5. Or don't hunt for those hints and you'll probably find yourself feeling some serious tragic dread, as if Denmark's collapse was inevitable from the start. Shakespeare tosses in omens and sickness metaphors to prove that [[Claudius]]'s unnatural crime has [[poison]]ed the entire political state (and maybe cosmic order too).
+
+### Examples
+- **[[The Ghost]]'s First Appearance (Act 1, Scene 1):** The ghost of Old King Hamlet appears at midnight in the exact battle armor worn against Old Fortinbras. The fact that he's all dressed up like that signals there is something to be defended against, a war to be fought (impending military and political upheaval).
+- **Marcellus Quote (Act 1, Scene 4):** *"Something is rotten in the state of Denmark."* Marcellus says this as [[Hamlet]] follows the Ghost into the dark. It's a direct link between Claudius's hidden crime and the moral [[corruption]] that will eventually consume the royal house.
+- **The Player Queen’s Vows in [[Mousetrap]] (Act 3, Scene 2):** The player queen insists that remarrying after the death of her husband is akin to killing him a second time (*see* [[performance]]). This mirrors [[Gertrude]]'s guilt, but also foreshadows how Claudius's calculated schemes and actions will kill everyone around him.
+- **Hamlet’s Premonition Before [[The Duel]] (Act 5, Scene 2):** *"Thou wouldst not think how ill all's here about my heart,"* is what Hamlet says to [[Horatio]] right before fencing with [[Laertes]]. He senses a trap and we probably should too. Basically immediately after he says that, he steps into the poisoned fencing match and dies (along with the rest of the royal line).

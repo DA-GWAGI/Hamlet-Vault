@@ -1,0 +1,13 @@
+Words with double meanings. Works well with ambiguity and gives two interpretations to a phrase. Particularly (over)used by Hamlet to verbally attack people without openly giving cause for treason.
+
+### How Shakespeare Uses It
+Elsinore is basically an absolute monarchy, and one where speaking openly against the king means execution. [[Hamlet]] uses puns to weaponize double meanings without getting his head cut off, hiding lethal insults and uncomfortable truths inside seemingly nonsensical wordplay. This allows him to mock his enemies to their faces while maintaining plausible deniability under an antic disposition (he adopts after the confrontation in the [[ghost's appearance]]).
+
+Puns also provides contrast to [[Claudius]]'s smooth and official rhetoric, forcing literal and ugly meanings out from beneath polite royal euphemisms (*see* [[appearance vs reality]]). Although, do note that Hamlet isn't the only character who manages to shroud verbal confrontation in ambiguity as a defense mechanism.
+([[Ophelia]] finds her voice through [[madness]] in [[Ophelia's descent]]. *Also see* [[Ophelia's flowers]])
+
+### Examples
+- **"kin / kind" and "son / sun" in the [[First Court Scene]] (Act 1, Scene 2):** Claudius gives Hamlet a phony paternal welcome, to which he responds with *"A little more than kin, and less than kind"* (calling him incestuous and unnatural/cruel) and *"I am too much i' the sun"* (a pun on "son", he is offended and resents being called Claudius's son, he's still mourning his real father) (*see* [[grief]] *and* [[power]])
+- **"fishmonger" in the [[Fishmonger Scene]] (Act 2, Scene 2):** Hamlet calls Polonius a _"fishmonger"_ (Elizabethan slang for a pimp), probably a ~~not-so-~~subtle jab at Polonius’s scheme to use Ophelia as bait
+- **"nunnery" in the [[nunnery scene]] (Act 3, Scene 1):** Hamlet demands Ophelia "*Get thee to a nunnery*". It's double-edged because a nunnery means a convent (escape these breeding sinners), but it's also Elizabethan slang for a brothel (Hamlet's cynical disgust with female sexuality, *see* [[misogyny]])
+- **Polonius at "supper" in (Act 4, Scene 3):** Claudius asks Hamlet where Polonius is after Hamlet kills him and hides the body (*see* [[death of Polonius]]). Hamlet replies "*At supper... Not where he eats, but where he is eaten*", which is grim wordplay about worms and bodies decaying in the dirt. He's reminding Claudius that kings and beggars end up as identical food for maggots (something Hamlet will get real up close and personal with in the [[gravedigger scene]] while holding [[Yorick's skull]]).
